@@ -10,8 +10,9 @@
   
     <div class="myName">
       
-      You can call me **ARANYAK** eyes![lelouch-lelouch-vi-britannia](https://user-images.githubusercontent.com/64925270/216570276-d893f558-0e54-4b90-9bf2-34588239a2d4.gif)
-      
+      You can call me <strong>ARANYAK<strong>
+      ![lelouch-lelouch-vi-britannia](https://user-images.githubusercontent.com/64925270/216571784-438d5da5-b034-4ca7-a448-f96cdc50d5cc.gif)
+
     </div>
   <div>
   </body>
