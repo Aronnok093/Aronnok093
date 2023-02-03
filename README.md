@@ -4,40 +4,41 @@
 
 ![lelouch-vi-britannia-code-geass](https://user-images.githubusercontent.com/64925270/216568044-79ebc227-eb82-4b02-a822-cab1410478f5.gif)
   
-  # _{Application Name}_
+  # _About ME_
 
-#### By _**{List of contributors}**_
+#### By _**Fardin Jaman Aranyak**_
 
-#### _{Brief description of application}_
+#### _Alive or Dead_
 
-## Technologies Used
+## Programming Language:
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _Front END:HTML,CSS,JS_
+* _Back END:C#,JAVA,KOTLIN_
+* _DataBase:SQL,MYSQL,FIREBASE_
+* _Others:C/C++,Python_
 
-## Description
+## Education:
+_Studied B.Sc. (Engr.) in Computer Science& Engineering(CSE) at Ahsanullah University of Science & Technology (AUST)_
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+## Hobby:
 
-## Setup/Installation Requirements
+* _Photography_
+* _Coding_
+* _Traveling_
+* _Anime_
+* _Valorant_
+* _competitive programming_ 
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+_Generally i take landscape photo.But i prefer travelling photo.If you ask me about to code:I can do this all day.
+Here is some of my favorite anime:Demon Slayer,ujutsu Kaisen,Fullmetal Alchemist,Death Note, Steins Gate.If you want to play valorant with me here is my riot id:Gambare Gambare #4217.One of my favorite place i want to go again is sajek.I'm also interested in competitive programming.In 2021 i participated in Asia Dhaka Regional Site Online Preliminary Contest._
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+## Contact info:
 
-## Known Bugs
+* _kfardin0@gmail.com_
+* _fardin.aronock@gmail.com_
 
-* _Any known issues_
-* _should go here_
+## Favorite Quotes:
 
-## License
+_"I never lose. I either win or learn."-Nelson Mandela_
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+Copyright (c)_since 1999 8 May_ _FJA(s)_
