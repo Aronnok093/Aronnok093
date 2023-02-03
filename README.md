@@ -12,9 +12,9 @@
 
 ## Programming Language:
 
-* _Front END: HTML, CSS, JS_
-* _Back END: C#, JAVA, KOTLIN_
-* _DataBase: SQL, MYSQL, FIREBASE_
+* _Front end: HTML, CSS, JS_
+* _Back end: C#, JAVA, KOTLIN_
+* _Data Base: SQL, MYSQL, FIREBASE_
 * _Others: C/C++, Python_
 
 ## Education:
