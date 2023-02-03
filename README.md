@@ -12,10 +12,10 @@
 
 ## Programming Language:
 
-* _Front END:HTML,CSS,JS_
-* _Back END:C#,JAVA,KOTLIN_
-* _DataBase:SQL,MYSQL,FIREBASE_
-* _Others:C/C++,Python_
+* _Front END: HTML, CSS, JS_
+* _Back END: C#, JAVA, KOTLIN_
+* _DataBase: SQL, MYSQL, FIREBASE_
+* _Others: C/C++, Python_
 
 ## Education:
 _Studied B.Sc. (Engr.) in Computer Science& Engineering(CSE) at Ahsanullah University of Science & Technology (AUST)_
@@ -30,7 +30,7 @@ _Studied B.Sc. (Engr.) in Computer Science& Engineering(CSE) at Ahsanullah Unive
 * _competitive programming_ 
 
 _Generally i take landscape photo.But i prefer travelling photo.If you ask me about to code:I can do this all day.
-Here is some of my favorite anime:Demon Slayer,ujutsu Kaisen,Fullmetal Alchemist,Death Note, Steins Gate.If you want to play valorant with me here is my riot id:Gambare Gambare #4217.One of my favorite place i want to go again is sajek.I'm also interested in competitive programming.In 2021 i participated in Asia Dhaka Regional Site Online Preliminary Contest._
+Here is some of my favorite anime:Demon Slayer,ujutsu Kaisen,Fullmetal Alchemist,Death Note, Steins Gate.If you want to play valorant with me here is my riot id: Gambare Gambare #4217.One of my favorite place i want to go again is sajek.I'm also interested in competitive programming.In 2021 i participated in Asia Dhaka Regional Site Online Preliminary Contest._
 
 ## Contact info:
 
@@ -41,4 +41,4 @@ Here is some of my favorite anime:Demon Slayer,ujutsu Kaisen,Fullmetal Alchemist
 
 _"I never lose. I either win or learn."-Nelson Mandela_
 
-Copyright (c)_since 1999 8 May_ _FJA(s)_
+Copyright (c) _ since 1999 8 May _ _FJA(s)_
