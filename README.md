@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Aronnok093/Aronnok093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![lelouch-vi-britannia-code-geass](https://user-images.githubusercontent.com/64925270/216568044-79ebc227-eb82-4b02-a822-cab1410478f5.gif)
