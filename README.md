@@ -17,6 +17,7 @@
 * _Data Base: SQL, MYSQL, FIREBASE_
 * _Others: C/C++, Python_
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aronnok093"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aronnok093&layout=compact"/>
 ## Education:
 _Studied B.Sc. (Engr.) in Computer Science& Engineering(CSE) at Ahsanullah University of Science & Technology (AUST)_
 
