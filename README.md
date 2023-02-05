@@ -68,4 +68,18 @@ _"I never lose. I either win or learn."-Nelson Mandela_
 
 Copyright (c) _ since 1999 8 May _ _FJA(s)_
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://www.facebook.com/fardin.khan.501/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/md-fardin-jaman-aranyak-744890191/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="https://open.spotify.com/playlist/g2sowf5rms6why5na9yfo624x">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
