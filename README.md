@@ -34,9 +34,6 @@
             <span><strong>Android/strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/android/android-tile.svg">
             </td>
-        </tr>
-        <tr>
-          
             <td width="80px" align="center">
             <span><strong>Kotlin</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
