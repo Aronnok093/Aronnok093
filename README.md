@@ -11,9 +11,9 @@
 #### _Alive or Dead_
 
 ## Programming Language:
-<table width="320px">
+<table width="320px" >
     <tbody>
-        <tr valign="top">
+        <tr valign="top"  bgcolor="lightblue">
             <td width="80px" align="center">
             <span><strong>Python</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -31,7 +31,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
         </tr>
-        <tr valign="top">
+        <tr valign="top"  bgcolor="lightblue">
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
