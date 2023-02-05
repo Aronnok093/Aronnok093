@@ -30,11 +30,32 @@
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Android/strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/android/android-tile.svg">
+            </td>
         </tr>
+        <tr valign="top">
+          
+            <td width="80px" align="center">
+            <span><strong>Kotlin</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>.Net</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Arduino UNO</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java Script</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+            </td>
+      </tr>
     </tbody>
 </table>
-
-
 
 * _Front end: HTML, CSS, JS_
 * _Back end: C#, JAVA, KOTLIN_
