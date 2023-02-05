@@ -77,7 +77,7 @@ Copyright (c) _ since 1999 8 May _ _FJA(s)_
             <td><a href="https://www.linkedin.com/in/md-fardin-jaman-aranyak-744890191/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
-            <td><a href="https://open.spotify.com/playlist/g2sowf5rms6why5na9yfo624x">
+            <td><a href="https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL?si=ad14b061181d406f">
             <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
             </a></td>
         </tr>
