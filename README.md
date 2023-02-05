@@ -35,7 +35,7 @@
             <img height="32px" src="https://www.vectorlogo.zone/logos/android/android-tile.svg">
             </td>
         </tr>
-        <tr valign="top">
+        <tr>
           
             <td width="80px" align="center">
             <span><strong>Kotlin</strong></span><br>
