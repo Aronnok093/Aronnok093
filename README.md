@@ -1,6 +1,5 @@
-### Hello, I'm <a href="https://aronnok093.github.io/portfolio/">Fardin</a>
- 👋
-  
+### Hello, I'm <a href="https://aronnok093.github.io/portfolio/">Fardin</a> 👋
+:bulb:  
 ![lelouch-vi-britannia-code-geass](https://user-images.githubusercontent.com/64925270/216568044-79ebc227-eb82-4b02-a822-cab1410478f5.gif)
 
 ## About Me
