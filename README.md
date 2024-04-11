@@ -1,103 +1,58 @@
-### Hi there 👋
-
-**Look into my**✨_eyes_ ✨.
+### Hello,I'm Fardin 👋
+  /\_/\  
+ ( o.o ) 
+  > ^ <
 
 ![lelouch-vi-britannia-code-geass](https://user-images.githubusercontent.com/64925270/216568044-79ebc227-eb82-4b02-a822-cab1410478f5.gif)
-  
-# _About ME_
+![Greetings](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
-#### By _**Fardin Jaman Aranyak**_
+## About Me
 
-#### _"I'M TECHIE GEEK CODIE NERD WIZRD...EVERYTHING"_
+I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, and traveling.
 
-## Programming Language:
-<table width="320px" >
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Android</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/android/android-tile.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Kotlin</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>.Net</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Arduino UNO</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Java Script</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
-            </td>
-      </tr>
-    </tbody>
-</table>
+#### _"I'M A TECHIE GEEK, CODIE NERD, WIZARD... EVERYTHING"_
 
-* _Front end: HTML, CSS, JS_
-* _Back end: C#, JAVA, KOTLIN_
-* _Data Base: SQL, MYSQL, FIREBASE_
-* _Others: C/C++, Python_
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aronnok093&layout=compact"/>
+## Technical Skills
 
-## Education:
-_Studied B.Sc. (Engr.) in Computer Science& Engineering(CSE) at Ahsanullah University of Science & Technology (AUST)_
+| Languages       | Frameworks          | Frontend         | Databases        | Developer Tools   | Other Skills     | Soft Skills      |
+|-----------------|---------------------|------------------|------------------|-------------------|------------------|------------------|
+| Python          | ASP.NET MVC         | HTML             | MS SQL Server    | Visual Studio     | Latex            | Time Management |
+| Java            | Java Swing          | CSS              | MySQL            | VS Code           | Arduino Uno      | Teamwork        |
+| HTML            |                     | Bootstrap        | Firebase         | Android Studio    |                  | Problem Solving  |
+| CSS             |                     | Razor Pages      |                  | GitHub            |                  |                  |
+| Kotlin          |                     |                  |                  |                   |                  |                  |
+| JavaScript      |                     |                  |                  |                   |                  |                  |
+| C#              |                     |                  |                  |                   |                  |                  |
+| C/C++           |                     |                  |                  |                   |                  |                  |
 
-## Hobby:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aronnok093&layout=compact)
 
-* _Photography_
-* _Coding_
-* _Traveling_
-* _Anime_
-* _Valorant_
-* _competitive programming_ 
+## Education
+**Degree:** B.Sc. in Computer Science & Engineering (CSE)  
+**Institution:** Ahsanullah University of Science & Technology (AUST)  
+**Duration:** 2019-2024  
 
-_Generally i take landscape photo.But i prefer travelling photo.If you ask me about to code:I can do this all day.
-Here is some of my favorite anime:Demon Slayer,ujutsu Kaisen,Fullmetal Alchemist,Death Note, Steins Gate.If you want to play valorant with me here is my riot id: Gambare Gambare #4217.One of my favorite place i want to go again is sajek.I'm also interested in competitive programming.In 2021 i participated in Asia Dhaka Regional Site Online Preliminary Contest._
+## Hobby
 
-## Contact info:
+- **Photography:** Generally, I take landscape photos, but I prefer traveling photography.
+- **Coding:** I can code all day long.
+- **Traveling**
+- **Anime:** Some of my favorites include Demon Slayer, Jujutsu Kaisen, Fullmetal Alchemist, Death Note, and Steins Gate.
+- **Valorant:** Feel free to add me for a game! Riot ID: OtakuDualist #jaman
+- **Competitive Programming:** I participated in the Asia Dhaka Regional Site Online Preliminary Contest in 2021.
 
-* _kfardin0@gmail.com_
-* _fardin.aronock@gmail.com_
+## Contact Info
 
-## Favorite Quotes:
+- **Email:** 
+  - kfardin0@gmail.com
+  - fardin.aronock@gmail.com
+  - fardin093.contest@gmail.com
+- **Phone:** +8801724615130
 
-_"I never lose. I either win or learn."-Nelson Mandela_
+## Favorite Quotes
 
-Copyright (c) _ since 1999 8 May _ _FJA(s)_
+_"I never lose. I either win or learn." - Nelson Mandela_
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="https://www.facebook.com/fardin.khan.501/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/md-fardin-jaman-aranyak-744890191/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-            </a></td>
-            <td><a href="https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL?si=ad14b061181d406f">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
-            </a></td>
-        </tr>
-    </tbody>
-</table>
+[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg)](https://www.facebook.com/fardin.aranyak/)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/md-fardin-jaman-aranyak-744890191/)
+[![Spotify](https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg)](https://open.spotify.com/artist/0a3zDmrvmZcORfPeONPvfL?si=ad14b061181d406f)
