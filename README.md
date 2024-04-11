@@ -1,12 +1,6 @@
 ### Hello,I'm Fardin 👋
-  /\_/\  
- ( o.o ) 
-  > ^ <
-> 
-
-
+  
 ![lelouch-vi-britannia-code-geass](https://user-images.githubusercontent.com/64925270/216568044-79ebc227-eb82-4b02-a822-cab1410478f5.gif)
-![Greetings](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
 ## About Me
 
