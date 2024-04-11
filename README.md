@@ -8,7 +8,7 @@ I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, 
 
 #### _"I'M A TECHIE GEEK, CODIE NERD, WIZARD... EVERYTHING"_
 
-## Technical Skills
+## Technical Skills :rocket:
 
 | Languages       | Frameworks          | Frontend         | Databases        | Developer Tools   | Other Skills     | Soft Skills      |
 |-----------------|---------------------|------------------|------------------|-------------------|------------------|------------------|
@@ -23,12 +23,12 @@ I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aronnok093&layout=compact)
 
-## Education
+## Education :open_book:
 **Degree:** B.Sc. in Computer Science & Engineering (CSE)  
 **Institution:** Ahsanullah University of Science & Technology (AUST)  
 **Duration:** 2019-2024  
 
-## Hobby
+## Hobby :art:
 
 - **Photography:** Generally, I take landscape photos, but I prefer traveling photography.
 - **Coding:** I can code all day long.
@@ -37,7 +37,7 @@ I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, 
 - **Valorant:** Feel free to add me for a game! Riot ID: OtakuDualist #jaman
 - **Competitive Programming:** I participated in the Asia Dhaka Regional Site Online Preliminary Contest in 2021.
 
-## Contact Info
+## Contact Info :bookmark:
 
 - **Email:** 
   - kfardin0@gmail.com
@@ -45,7 +45,7 @@ I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, 
   - fardin093.contest@gmail.com
 - **Phone:** +8801724615130
 
-## Favorite Quotes
+## Favorite Quotes :mag:
 
 _"I never lose. I either win or learn." - Nelson Mandela_
 
