@@ -14,7 +14,7 @@ I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, 
 |-----------------|---------------------|------------------|------------------|-------------------|------------------|------------------|
 | Python          | ASP.NET MVC         | HTML             | MS SQL Server    | Visual Studio     | Latex            | Time Management |
 | Java            | Java Swing          | CSS              | MySQL            | VS Code           | Arduino Uno      | Teamwork        |
-| HTML            |                     | Bootstrap        | Firebase         | Android Studio    |                  | Problem Solving  |
+| HTML            | Django              | Bootstrap        | Firebase         | Android Studio    |                  | Problem Solving  |
 | CSS             |                     | Razor Pages      |                  | GitHub            |                  |                  |
 | Kotlin          |                     |                  |                  |                   |                  |                  |
 | JavaScript      |                     |                  |                  |                   |                  |                  |
