@@ -12,10 +12,10 @@ Django and ASP.NET, I am eager to contribute my skills to innovative software de
 
 | Languages       | Frameworks          | Frontend         | Databases        | Developer Tools   | Other Skills     | Soft Skills      |
 |-----------------|---------------------|------------------|------------------|-------------------|------------------|------------------|
-| Python          | ASP.NET MVC         | HTML             | MS SQL Server    | Visual Studio     | Latex            | Time Management |
-| Java            | Java Swing          | CSS              | MySQL            | VS Code           | Arduino Uno      | Teamwork        |
+| Python          | ASP.NET MVC         | HTML             | MS SQL Server    | Visual Studio     | Latex            | Time Management  |
+| Java            | ASP.NET Core        | CSS              | MySQL            | VS Code           | Arduino Uno      | Teamwork         |
 | HTML            | Django              | Bootstrap        | Firebase         | Android Studio    |                  | Problem Solving  |
-| CSS             |                     | Razor Pages      |                  | GitHub            |                  |                  |
+| CSS             | Java Swing          | Razor Pages      |                  | GitHub            |                  |                  |
 | Kotlin          |                     |                  |                  |                   |                  |                  |
 | JavaScript      |                     |                  |                  |                   |                  |                  |
 | C#              |                     |                  |                  |                   |                  |                  |
