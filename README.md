@@ -4,8 +4,8 @@
 
 ## About Me :bulb:  
 
-I'm a software engineer based in Dhaka, Bangladesh. I love coding, photography, and traveling.
-
+I am a recent graduate with a Bachelor’s degree in Computer Science & Engineering. Proficient in Python, C++, React,
+Django and ASP.NET, I am eager to contribute my skills to innovative software development projects.
 #### _"I'M A TECHIE GEEK, CODIE NERD, WIZARD... EVERYTHING"_
 
 ## Technical Skills :rocket:
