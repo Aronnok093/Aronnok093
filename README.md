@@ -34,15 +34,15 @@ Django and ASP.NET, I am eager to contribute my skills to innovative software de
 - **Coding:** I can code all day long.
 - **Traveling**
 - **Anime:** Some of my favorites include Demon Slayer, Jujutsu Kaisen, Fullmetal Alchemist, Death Note, and Steins Gate.
-- **Valorant:** Feel free to add me for a game! Riot ID: OtakuDualist #jaman
+- **Valorant:** Feel free to add me for a game! Riot ID: farDIN #AAAAA
 - **Competitive Programming:** I participated in the Asia Dhaka Regional Site Online Preliminary Contest in 2021.
 
 ## Contact Info :bookmark:
 
 - **Email:** 
   - kfardin0@gmail.com
-  - fardin.aronock@gmail.com
-  - fardin093.contest@gmail.com
+
+ 
 - **Phone:** +8801724615130
 
 ## Favorite Quotes :mag:
